@@ -13,8 +13,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/caesar-cipher-encoder.git
-    cd caesar-cipher-encoder
+    git clone https://github.com/your-username/caesar-cipher.git
+    cd caesar-cipher
     ```
 
 2. **Install dependencies**:
