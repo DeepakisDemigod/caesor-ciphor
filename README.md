@@ -1,6 +1,6 @@
 # Caesar Cipher Encoder
 
-This is a simple Caesar Cipher encoder built with React. The app allows users to input a message and a shift value, and then it encodes the message using the Caesar Cipher algorithm.
+This is a simple Caesar Cipher encoder built with React. The app allows users to input a message and a shift value, and then it encodes the message using the Caesar Cipher algorithm. Default Shift is set 3. if Shift is 0 Then Encoding not Applied 
 
 ## Table of Contents
 
