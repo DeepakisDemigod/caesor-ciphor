@@ -1,0 +1,92 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background: #001122;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+#main {
+  background: #0d0e12;
+  color: #ddd;
+  padding: 15px;
+  border-radius: 7px;
+  margin: 16px;
+}
+
+textarea {
+  background: #151c24;
+  color: #eee;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  width: 87vw;
+}
+
+#encrypted {
+  font-family: Monospace;
+  font-size: 13px;
+}
+
+#shift {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+  font-size: 14px;
+}
+
+input {
+  background: #151c24;
+  color: #eee;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 8px;
+  height: 10px;
+  width: 100%;
+}
+
+button {
+  background: #206eea;
+  color: #eee;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  padding: 6px 8px;
+}
+
+p {
+  background: #151c24;
+  font-family: Monospace;
+  color: #eee;
+  border: none;
+  font-size: 11px;
+  border-radius: 3px;
+  outline: none;
+  padding: 15px;
+  width: auto;
+}
+
+img {
+  margin: 0 6px;
+}
+
+footer {
+  margin: 30px 10px;
+  font-size: 13px;
+  font-weight: thin;
+  display: flex;
+  justify-content: center;
+}
